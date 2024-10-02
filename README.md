@@ -33,5 +33,5 @@
 - Pivot Table
 
 ### Dashboard
-- [Download the file]() and open in Power BI Desktop for interactive viewing.
+- [Download the report file](https://github.com/mdanwarulkarim/Data_Analysis_Report/blob/main/Sales%20Report.pdf) and open in Power BI Desktop for interactive viewing.
 - [See a screenshot](https://github.com/mdanwarulkarim/Data_Analysis_Report/blob/main/A%20Sales%20report%20overview.png) of the Dashboard in pdf.
